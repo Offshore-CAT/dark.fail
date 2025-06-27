@@ -6,4 +6,4 @@ Learn how to use Tor hidden services safely. Check whether a .onion site is onli
 http://dark.fail/ a leftist tor website collector supports leftist EFF, now supports ZCash... on their twitter @DarkDotFail: https://archive.ph/j4YdB
  
 
-I have archive their website on offshore archive. - https://archive.is/b2KKg
+I have archive their website on offshore archive. - [https://archive.is/b2KKg](https://archive.is/b2KKg)
